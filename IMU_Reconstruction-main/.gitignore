@@ -1,0 +1,11 @@
+# Repomix
+*repomix-output.md
+
+# Executables
+imu_visualizer
+
+# Images
+*.png
+
+# CSV files
+CSV/
