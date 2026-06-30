@@ -5,7 +5,7 @@ BodySync is a low-cost, modular wearable motion capture system that uses ESP32-C
 ### A Cost-Effective Modular IMU Sensor Suit for Real-Time Human Body Motion Tracking
 
 <p align="center">
-<img src="Images/coverimg.png" width="900">
+<img src="coverimg.png" width="900">
 </p>
 
 <p align="center">
