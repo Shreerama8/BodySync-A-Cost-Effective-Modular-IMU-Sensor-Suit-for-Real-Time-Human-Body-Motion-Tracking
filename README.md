@@ -1,0 +1,2 @@
+# BodySync-A-Cost-Effective-Modular-IMU-Sensor-Suit-for-Real-Time-Human-Body-Motion-Tracking
+BodySync is a low-cost, modular wearable motion capture system that uses ESP32-C3 and MPU6050 IMU sensors to track full-body movements in real time. It delivers accurate wireless motion visualization for healthcare, rehabilitation, sports, animation, and research at a fraction of the cost of commercial motion capture systems.
